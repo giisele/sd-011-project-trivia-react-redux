@@ -1,4 +1,4 @@
-#### Projeto em grupo feito com Hugo Somers (@Hugosomers), Alberto Cândido (@albertoscandido) e Jéssica Arruda (@Sicarruda)
+#### Projeto em grupo feito com [Hugo Somers](http://github.com/Hugosomers), [Alberto Cândido](http://github.com/albertoscandido) e [Jéssica Arruda](http://github.com/Sicarruda)
 
 # Boas vindas ao repositório do projeto de Trivia!
 
